@@ -1,0 +1,65 @@
+html, body {
+    height: 100vh;
+}
+
+#top-bar {
+    padding-top:1vh;
+    padding-left: 0;
+    padding-right: 0;
+    height: 14vh;
+}
+
+#main-box {
+    padding:0px;
+    margin-left :2px;
+    margin-right: 2px;
+    height: 70vh;
+    height: 62vh;
+}
+
+#summaryPanel {
+    height: 10vh;
+}
+
+#title {
+    font-size: 5vh;
+}
+
+#footer {
+    height: 10vh;
+}
+
+#main-box-row {
+    height: 100%;
+}
+
+.btn-dark {
+    background-color: #4e524b !important;
+}
+
+#headerImage {
+    height: 15vh; 
+    width: 100%;
+}
+
+#card {
+    width: auto;
+}
+
+#listGroup {
+    display: table-row;
+}
+
+#cardBtn {
+    width: auto; 
+    height: 60px;
+}
+
+#UploadBtn{
+    height: 60px;
+    line-height: 45px;
+}
+
+#gpxUploadBtn {
+    display: none;
+}

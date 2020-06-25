@@ -1,0 +1,9 @@
+#mapid { height: 100%}
+
+.noBorder {
+  border-width:0;
+}
+
+.leaflet-mouse-marker { 
+  background-color:#fff;cursor:crosshair 
+}

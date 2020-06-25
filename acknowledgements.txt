@@ -1,0 +1,12 @@
+Graphics used:
+* Star Trek running by Paige Carpenter - http://princehamlette.tumblr.com/
+* Star Trek cycling by RhymeLawliet - https://www.deviantart.com/rhymelawliet/
+* Custom Icon Suite used for Summary Panel - https://fontawesome.com/v4.7.0/icons/
+
+Technology
+* Bootstarp - https://getbootstrap.com/
+* Leaflet - https://leafletjs.com/
+* Leaflet hotline plugin - https://github.com/iosphere/Leaflet.hotline
+* Leaflet plugin - https://github.com/Leaflet/Leaflet/blob/master/PLUGIN-GUIDE.md
+* Leaflet Plugin for Globe Minimap - https://github.com/chriswhong/leaflet-globeminimap
+* Social Media features https://github.com/makinacorpus/Leaflet.Social
