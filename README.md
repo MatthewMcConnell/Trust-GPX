@@ -2,7 +2,7 @@
 
 This project was to design and create a web app to visualise gpx files.
 
-![An example screenshot of our webapp](../trust-data-not-lore-example.png)
+![An example screenshot of our webapp](trust-data-not-lore-example.png)
 
 ## Contributors
 
