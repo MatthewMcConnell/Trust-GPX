@@ -11,7 +11,7 @@ This project was to design and create a web app to visualise gpx files.
 - Sara Jakubiak
 - Gloria Dhandapani
 
-.....other wise known as ***Trust Data Not Lore***
+...other wise known as **Trust Data Not Lore**
 
 ## How to use the social media feature
 
@@ -27,5 +27,5 @@ To setup a prototype:
 - run python -m SimpleHTTPServer
 - ngrok http 8000
 
-Then share the [FORWARDING URL]/trust_gpx/main.html with whoever would like to use it
+Then share the *forwarding url*/trust_gpx/main.html with whoever would like to use it
 
